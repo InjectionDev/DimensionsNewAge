@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="16">
+	<account>
+		<username>admin</username>
+		<newCryptPassword>F1-C0-DC-C2-37-E3-66-72-05-C9-E8-83-6B-B0-BF-95-9A-9F-18-E9</newCryptPassword>
+		<accessLevel>Owner</accessLevel>
+		<flags>2</flags>
+		<created>2012-08-19T00:18:23.59375-03:00</created>
+		<lastLogin>2013-04-02T22:55:29.8422053-03:00</lastLogin>
+		<totalGameTime>P3DT10H35M15.2553905S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+		</chars>
+		<addressList count="4">
+			<ip>192.168.25.150</ip>
+			<ip>192.168.25.101</ip>
+			<ip>179.230.81.65</ip>
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>teste</username>
+		<newCryptPassword>49-D6-5F-05-FB-D9-34-CA-D9-64-5E-D5-D9-E2-04-C1-2E-EF-E7-50</newCryptPassword>
+		<flags>2</flags>
+		<created>2005-12-01T21:03:00.75-02:00</created>
+		<lastLogin>2013-02-24T03:49:54.3119945-03:00</lastLogin>
+		<totalGameTime>PT2H25M39.826296S</totalGameTime>
+		<chars>
+			<char index="0">82</char>
+		</chars>
+		<addressList count="2">
+			<ip>192.168.25.101</ip>
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>magusshadow</username>
+		<newCryptPassword>D0-AC-48-DB-2C-73-D0-86-86-91-B0-A4-8C-1B-47-A5-B6-D0-B4-94</newCryptPassword>
+		<accessLevel>Administrator</accessLevel>
+		<flags>2</flags>
+		<created>2005-12-02T00:36:24.125-02:00</created>
+		<lastLogin>2013-02-08T18:25:29.747875-02:00</lastLogin>
+		<totalGameTime>PT5H2M21.1875S</totalGameTime>
+		<chars>
+			<char index="0">147</char>
+		</chars>
+		<tags>
+			<tag name="numRewardsChosen">16</tag>
+		</tags>
+		<addressList count="4">
+			<ip>177.41.255.248</ip>
+			<ip>187.65.249.129</ip>
+			<ip>177.16.157.12</ip>
+			<ip>186.215.187.10</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>LOCKE</username>
+		<newCryptPassword>EC-48-F5-06-16-EC-AE-77-C6-1B-D2-01-CE-26-41-51-88-63-97-F4</newCryptPassword>
+		<flags>2</flags>
+		<created>2005-12-03T15:02:04.1875-02:00</created>
+		<lastLogin>2005-12-03T15:02:04.1875-02:00</lastLogin>
+		<totalGameTime>PT0S</totalGameTime>
+		<chars />
+		<addressList count="1">
+			<ip>187.65.249.129</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>teste2</username>
+		<newCryptPassword>24-7C-7C-91-8E-2F-9F-91-54-05-80-BC-89-DB-97-1F-45-CD-CA-6D</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-02-24T01:24:31.8652973-03:00</created>
+		<lastLogin>2013-02-24T03:50:06.5216928-03:00</lastLogin>
+		<totalGameTime>PT24M29.2180345S</totalGameTime>
+		<chars>
+			<char index="0">86</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>alanpaegle</username>
+		<newCryptPassword>C7-D5-95-5B-12-87-D6-5C-3C-33-F2-52-10-49-6E-07-B8-09-CD-05</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-03-02T06:25:51.9012769-03:00</created>
+		<lastLogin>2013-03-02T14:57:41.6737754-03:00</lastLogin>
+		<totalGameTime>PT45.4545998S</totalGameTime>
+		<chars>
+			<char index="0">8735</char>
+			<char index="1">285</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>anabuzzii</username>
+		<newCryptPassword>C3-02-4D-B8-0F-32-15-E4-F9-43-2A-06-FB-1C-60-F3-AC-B9-88-CC</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-03-02T14:58:00.9038753-03:00</created>
+		<lastLogin>2013-03-02T15:08:14.1739523-03:00</lastLogin>
+		<totalGameTime>PT15.681897S</totalGameTime>
+		<chars>
+			<char index="0">9759</char>
+			<char index="1">145</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>guga</username>
+		<newCryptPassword>7C-55-31-DC-F0-ED-DF-5D-C9-27-A5-6F-2A-11-23-26-0B-6B-81-B4</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-03-02T15:01:54.2202202-03:00</created>
+		<lastLogin>2013-03-02T15:02:10.1681324-03:00</lastLogin>
+		<totalGameTime>PT8.5744905S</totalGameTime>
+		<chars>
+			<char index="0">14026</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>iguin</username>
+		<newCryptPassword>DB-46-6D-7A-54-E8-48-72-19-A2-7E-CF-28-BE-E6-36-F5-BA-86-2F</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-03-02T15:03:56.4882136-03:00</created>
+		<lastLogin>2013-03-02T15:08:39.7254138-03:00</lastLogin>
+		<totalGameTime>PT11.0056296S</totalGameTime>
+		<chars>
+			<char index="0">5</char>
+			<char index="1">170</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>artlipeart</username>
+		<newCryptPassword>06-22-26-24-22-B2-5A-0E-91-DB-E4-FD-43-7C-42-C2-25-3F-D4-94</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-03-02T15:04:30.7251718-03:00</created>
+		<lastLogin>2013-03-02T15:04:42.8158634-03:00</lastLogin>
+		<totalGameTime>PT4.3332478S</totalGameTime>
+		<chars>
+			<char index="0">27</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>pvsk8</username>
+		<newCryptPassword>8F-7D-FC-C3-B4-8D-F3-6F-84-6F-1B-16-2D-E4-D3-94-0F-67-33-75</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-03-02T15:04:53.4114694-03:00</created>
+		<lastLogin>2013-03-02T15:05:05.8291796-03:00</lastLogin>
+		<totalGameTime>PT6.7033835S</totalGameTime>
+		<chars>
+			<char index="0">54</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>edgar</username>
+		<newCryptPassword>68-F1-D0-8A-C2-0C-03-7E-DD-29-C5-BE-8B-56-16-DC-96-5A-82-93</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-03-02T15:05:19.506962-03:00</created>
+		<lastLogin>2013-03-02T15:09:06.7999624-03:00</lastLogin>
+		<totalGameTime>PT11.5816625S</totalGameTime>
+		<chars>
+			<char index="0">55</char>
+			<char index="1">8837</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>srmadruga</username>
+		<newCryptPassword>FD-96-54-E5-89-53-CA-1A-E5-A5-EF-B6-92-42-AC-45-55-11-36-DF</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-03-02T15:05:44.8834134-03:00</created>
+		<lastLogin>2013-03-02T15:09:33.8325086-03:00</lastLogin>
+		<totalGameTime>PT9.9375684S</totalGameTime>
+		<chars>
+			<char index="0">67</char>
+			<char index="1">8972</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>diogoccr</username>
+		<newCryptPassword>2E-A7-FB-3A-D4-66-BE-D0-62-CE-73-C3-B8-BC-19-87-49-16-46-83</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-03-02T15:06:10.8829005-03:00</created>
+		<lastLogin>2013-03-02T15:09:57.2988508-03:00</lastLogin>
+		<totalGameTime>PT10.5316024S</totalGameTime>
+		<chars>
+			<char index="0">71</char>
+			<char index="1">9698</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>Arboham</username>
+		<newCryptPassword>17-E1-01-8F-FE-A2-D0-04-EA-2D-11-48-8A-3A-42-D8-E4-15-8B-93</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-03-03T02:00:40.0099661-03:00</created>
+		<lastLogin>2013-03-03T02:01:45.8937344-03:00</lastLogin>
+		<totalGameTime>PT10.6406085S</totalGameTime>
+		<chars>
+			<char index="0">14499</char>
+			<char index="1">121</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>daniel</username>
+		<newCryptPassword>5C-7F-A2-1F-B0-D4-CE-52-5A-52-3B-11-CD-6E-72-85-5D-CE-A6-EE</newCryptPassword>
+		<flags>2</flags>
+		<created>2013-03-03T04:13:41.1244597-03:00</created>
+		<lastLogin>2013-03-03T04:13:41.1244597-03:00</lastLogin>
+		<totalGameTime>PT0S</totalGameTime>
+		<chars />
+	</account>
+</accounts>
